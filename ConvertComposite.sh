@@ -1,0 +1,14 @@
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_6.jpg  /Users/unionsquare/Documents/image/800001/40003147_6.jpg /Users/unionsquare/Documents/image/8000/40003147_6.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_7.jpg  /Users/unionsquare/Documents/image/800001/40003147_7.jpg /Users/unionsquare/Documents/image/8000/40003147_7.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_8.jpg  /Users/unionsquare/Documents/image/800001/40003147_8.jpg /Users/unionsquare/Documents/image/8000/40003147_8.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_9.jpg  /Users/unionsquare/Documents/image/800001/40003147_9.jpg /Users/unionsquare/Documents/image/8000/40003147_9.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_10.jpg  /Users/unionsquare/Documents/image/800001/40003147_10.jpg /Users/unionsquare/Documents/image/8000/40003147_10.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_11.jpg  /Users/unionsquare/Documents/image/800001/40003147_11.jpg /Users/unionsquare/Documents/image/8000/40003147_11.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_12.jpg  /Users/unionsquare/Documents/image/800001/40003147_12.jpg /Users/unionsquare/Documents/image/8000/40003147_12.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_13.jpg  /Users/unionsquare/Documents/image/800001/40003147_13.jpg /Users/unionsquare/Documents/image/8000/40003147_13.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_14.jpg  /Users/unionsquare/Documents/image/800001/40003147_14.jpg /Users/unionsquare/Documents/image/8000/40003147_14.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_15.jpg  /Users/unionsquare/Documents/image/800001/40003147_15.jpg /Users/unionsquare/Documents/image/8000/40003147_15.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_16.jpg  /Users/unionsquare/Documents/image/800001/40003147_16.jpg /Users/unionsquare/Documents/image/8000/40003147_16.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_17.jpg  /Users/unionsquare/Documents/image/800001/40003147_17.jpg /Users/unionsquare/Documents/image/8000/40003147_17.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_18.jpg  /Users/unionsquare/Documents/image/800001/40003147_18.jpg /Users/unionsquare/Documents/image/8000/40003147_18.jpg
+composite -gravity South -compose over /Users/unionsquare/Documents/image/mki/40003147_19.jpg  /Users/unionsquare/Documents/image/800001/40003147_19.jpg /Users/unionsquare/Documents/image/8000/40003147_19.jpg
